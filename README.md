@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 - 📫 How to reach me **samettemas05@gmail.com**
-![](https://komarev.com/ghpvc/?username=SamTe5&color=orange)
+
 <p align="left">
 </p>
 
